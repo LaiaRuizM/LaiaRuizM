@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#ff7800">
-Hi there 👋🏻, I am Laia Ruiz!
+~ Hi there 👋🏻,  I am Laia Ruiz
 </h1>
 <h2 align="center">
     <a href="https://git.io/typing-svg">
@@ -34,10 +34,10 @@ Hi there 👋🏻, I am Laia Ruiz!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt=“GulpJS” width="40" height="40"/>
     </a>
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt=“NodeJS” width="40" height="40"/>
+    <img src="https://i.postimg.cc/Pqgtdd9b/NodeJS.png" alt=“NodeJS” width="40" height="40"/>
     </a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt=“ExpressJS” width="40" height="40"/>
+    <img src="https://i.postimg.cc/ydCzwv3v/Express-JS.png" alt=“ExpressJS” width="40" height="40"/>
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
@@ -45,9 +45,6 @@ Hi there 👋🏻, I am Laia Ruiz!
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt=“Git” width="40" height="40"/>
-    </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://play.google.com/store/apps/details?id=com.github.android&hl=es" alt=“GitHub” width="40" height="40"/>
     </a>
     <a href="https://zeplin.io/" target="_blank" rel="noreferrer">
     <img src="https://www.lennu.net/wp-content/uploads/2015/11/zeplin_logo-523x510.png" alt=“Zeplin” width="40" height="40"/>
@@ -58,5 +55,5 @@ Hi there 👋🏻, I am Laia Ruiz!
 </p>
 
 <p align="right" style="margin-right:10%">
-<img src="./LaiaRuizM.png" alt="Laia" width="180"/>
+<img src="./LaiaRuizM.png" alt="Laia" width="100%"/>
 </p>
