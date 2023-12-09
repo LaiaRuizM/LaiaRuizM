@@ -7,8 +7,8 @@
     </a>
 </h2>
 
-- 🔭 I’m currently working on my future.
-- 👩🏼‍💻 I’m currently learning to be a web developer.
+- 👩🏼‍💻 I’m currently working on Ideo's company.
+- 🎯 Always learning to be a better web developer.
 - 💬 Feel free to ask me if you have any question or curiosity.
 - 📫 How to reach me: **https://www.linkedin.com/in/laia-ruiz-martínez/** || **laia.ruizm@hotmail.com**
 
@@ -17,7 +17,7 @@
 <p>Technology is the future and I realized I had to quickly adapt to our changing world. I have become determined to learn software development and I have taken the next step for my career by applying for Adalab's program. This career change has helped me innovate my previous professional experience to another field. I consider myself a versatile person and I am motivated to learn as much as I can. I would love the opportunity to continue to learn in this tech journey and, given the opportunity, support and mentor other peers, as I have done in my previous professional role.</p>
 <p>I enjoy collaborating with others, solving complex technical problems, and staying up-to-date with the latest industry trends and as a dedicated full stack developer, I am committed to delivering high-quality products that meet client needs.</p>
 <p>I would love to demonstrate my capabilities and be able to add my attitude component which I can offer to your company.</p>
-</p>Now is time to code. Let's push it! 🚀</p>
+</p>Now is time to code. let's CODE! Let's push it! 🚀</p>
 
 <!-- <p style="font-size:18px"><a href="https://www."><strong style="color:#f2770c">Portfolio</strong></a></p> -->
 
