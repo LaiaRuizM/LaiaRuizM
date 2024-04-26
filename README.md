@@ -52,6 +52,9 @@
     <a href="https://slack.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt=“Slack” width="40" height="40"/>
     </a>
+    <a href="https://php.net/" target="_blank" rel="noreferrer">
+    <img src="https://i.postimg.cc/wMp5XFbx/php.png" alt=“PHP” width="40" height="40"/>
+    </a>
 </p>
 
 <p align="right" style="margin-right:10%">
